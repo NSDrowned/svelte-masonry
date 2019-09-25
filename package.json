@@ -1,0 +1,14 @@
+{
+    "name": "@drowned/svelte-masonry",
+    "description": "Blazing fast masonry script for SvelteJS",
+    "version": "0.0.2",
+    "license": "GPL",
+    "repository": "nsdrowned/svelte-masonry",
+    "main": "index.js",
+    "keywords": [
+        "svelte",
+        "masonry",
+        "npm",
+        "package"
+    ]
+}
